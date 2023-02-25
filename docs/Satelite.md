@@ -1,8 +1,7 @@
 ---
 title: Satelite
 layout: default
-parent: Harry Styles
-nav_order: 2
+nav_order: 3
 ---
 
 You got a new life
