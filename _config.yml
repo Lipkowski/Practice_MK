@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Practice MK_Just_the_Docs
+description: Ćwiczonka fajne słodkie przyjemne
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://Lipkowski.github.io/Practice_MK
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/Lipkowski/Practice_MK
+  
+color_scheme: dark
+
+heading_anchors: true
