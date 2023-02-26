@@ -1,7 +1,7 @@
 ---
 title: Satelite
 layout: default
-parent: index.md
+parent: Songs
 nav_order: 3
 ---
 
