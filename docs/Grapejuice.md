@@ -1,7 +1,7 @@
 ---
 title: Grapejuice
 layout: default
-parent: index.md
+parent: Harry Styles
 nav_order: 2
 ---
 
