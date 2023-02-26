@@ -1,8 +1,8 @@
 ---
 title: Grapejuice
 layout: default
-parent: Harry Styles
-nav_order: 1
+parent: index.md
+nav_order: 2
 ---
 
 Yesterday, it finally came, a sunny afternoon
