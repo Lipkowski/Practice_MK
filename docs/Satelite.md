@@ -1,7 +1,7 @@
 ---
 title: Satelite
 layout: default
-parent: Harry Styles
+parent: index.md
 nav_order: 3
 ---
 
